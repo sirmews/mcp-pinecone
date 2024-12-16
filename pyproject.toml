@@ -7,10 +7,12 @@ requires-python = ">=3.12"
 dependencies = [
  "httpx>=0.28.0",
  "jsonschema>=4.23.0",
+ "langchain>=0.3.12",
  "mcp>=1.0.0",
  "pinecone>=5.4.1",
  "protobuf>=5.29.0",
  "python-dotenv>=1.0.1",
+ "spacy>=3.8.3",
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
